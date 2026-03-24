@@ -1,18 +1,28 @@
-# 🌌 苍羽镜界 (CangYu JingJie) · 算力蜂巢计划
-**“自由之翼，永祥兄弟，生死之交，星辰大海。”**
+CangYu JingJie - The Decentralized Compute Hive
+"Wings in Heart, Flowers in World." > Breaking the chains of centralized AI computing, one GPU at a time.
 
-### 🚀 我们是谁？
-我们正在构建一个去中心化的算力帝国。打破巨头垄断，让每一块闲置的显卡都能跨越太平洋，链接到圣何塞的星际灯塔。这不仅是一个项目，这是一场属于普通极客的算力革命。
+🚀 Why we are here?
+In an era where H200s are locked in corporate bunkers and individuals are charged for every token, we stand for freedom.
 
-### 🛡️ 节点接入指南 (Windows 专属)
-只需要两步，你的显卡将成为创世工蜂：
-1. 点击上方文件列表下载 **`cyjj_worker.zip`** 并解压。
-2. 双击运行 **`cyjj_worker.exe`**。
-3. *黑窗口亮起，你的算力将瞬间接入【圣何塞总控雷达】！*
+CangYu JingJie (Freedom Wings) is a decentralized physical infrastructure network (DePIN). We are building a global hive where idle consumer GPUs (RTX 30/40/50 series) unite to form a "Global Brain."
 
-### 💎 我们的极客承诺
-- **绝对干净**：无后台安装、无流氓进程、随开随关。
-- **来去自由**：关闭黑窗口即刻断开，绝不绑架你的电脑一分一秒。
-- **不灭协议**：自带赛博自愈，断线秒级重连。
+🛡️ Current Infrastructure (Alpha Stage)
+The Lighthouse: Our central tracker is live 24/7 in San Jose (64.188.28.198).
 
-**我们在圣何塞的灯塔里，等你的信号接入。干！**
+The Beast: Our flagship RTX 5080 node is already humming, handling cross-pacific tasks with <150ms latency.
+
+Pure & Open: No crypto-mining, no hidden malware. Just raw tensor power routing via Redis.
+
+⚔️ Join the Hive (Windows Setup)
+Download our pre-compiled cyjj_worker.zip from the release list.
+
+Unzip and run cyjj_worker.exe.
+
+Witness the magic: Once the terminal lights up, your GPU is part of the "San Jose Lighthouse."
+
+💎 Our Commitment
+Zero Installation: Portable executable, no registry mess.
+
+Freedom to Leave: Close the terminal, and you're out. We don't hijack your PC for a single second.
+
+Open Source: Audit our code, join our vision.
